@@ -1,5 +1,5 @@
-title: OKUNGBENI KOLA DICKSON
-logo:"C:\Users\44777\OneDrive\Desktop\picture.jpg"
-#description: Dickson
-show_downloads: true
-theme: jekyll-theme-minimal
+title: OKUNGBENI DICKSON
+logo: /assets/image/headshot_circle.png
+descrition: text below imgage
+show_download: true
+theme: jekyLl-theme-minimal
