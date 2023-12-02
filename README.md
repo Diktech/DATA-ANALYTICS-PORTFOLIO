@@ -1,5 +1,5 @@
 # DATA ANALYTICS
-### SKILLS: 
+### SKILLS
 •	Proficiency in cleaning, transforming, and organizing data from various sources.
 •	Ability to apply statistical and analytical techniques to extract insights and draw meaningful conclusions
 •	Proficiency in SQL and R, for data analysis and manipulation
