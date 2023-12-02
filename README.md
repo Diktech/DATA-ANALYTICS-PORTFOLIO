@@ -14,14 +14,14 @@
 
 ## WORK EXPERIENCE
 ### BSMS LONDON, UK (IT) PART TERM
-Junior Data Analyst | JULY 2023 – DATE
+Junior Data Analyst  JULY 2023 till  DATE
 
 •	Clean data and Conducted data analysis to identify trends and patterns in potential students’ behaviour in choosing universities of choice. 
 •	Creating data visualization and dashboard for sales performance, providing real-time insights to sales teams     for better decision making. 
 •	Presenting findings to stakeholders and suggesting solutions to business problems. 
 •	Collaborated with cross-functional teams to identify process inefficiencies and proposed data-driven solutions.
 ### TRADEVIEW MARKETS LONDON
-Market Analyst. 2023
+Market Analyst 2023
 •	Analyze the forex market to provide market insight to existing clients 
 •	Using fundamental data to forecast potential price movement and predict market direction 
 •	Organizing, cleaning and storing market data for future  market analysis and prediction 
@@ -29,7 +29,7 @@ Market Analyst. 2023
 •	Creating visualization to bring derived insight to live and make it easy to understand. 
 
 ### CJC MARKETS NG (CFD/FOREX)
-   Sales Manager      August 2020 –January 2023
+   Sales Manager      August 2020 to January 2023
 
 •	 Utilized data analysis to identify market segments and optimize sales approaches.
 •	 Leverage statical models to forecast potential revenue streams 
@@ -46,7 +46,7 @@ Google Certified Data Analyst. ( https://coursera.org/share/4484f0af16604696217a
 BCS certified Business analyst (in view) 
 
 ### Welup Digital training
-Data analytics training & internship 
+Data analytics training and  internship 
 (Excel, Power BI, Tableau, SQL, R programming) Data collection, analysing data, cleaning data, Data modelling, and Data visualization to arrive at a conclusion sharing of insight.
 
 ### Advanced Careers, UK
@@ -59,7 +59,7 @@ Relevant Modules: Modelling Business Process, Requirement Engineering, Software 
 Master’s In Business Administration (MBA), Global Business online (In View)
 
 ### NEXFORD UNIVERSITY, Washington DC (2022)
-n Master’s in business administration (MBA) Foundation Course.
+Master’s in business administration (MBA) Foundation Course.
 
 ### Petroleum training institute, Warri (2006-2011)
 HND Electrical Electronics Engineering.
